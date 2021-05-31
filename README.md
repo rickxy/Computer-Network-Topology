@@ -7,9 +7,9 @@ Network topology is the geometric representation of relationship of all the link
 
        1. Bus Topology 
 It is a single network cable runs in the building or campus and all nodes are connected along with this communication line with two endpoints called the bus or backbone. In other words, it is a multipoint data communication circuit that is easily control data flow between the computers because this configuration allows all stations to receive every transmission over the network
+
+
  ![Screenshot (43)](https://user-images.githubusercontent.com/36708000/120246193-32dadb80-c278-11eb-8fcd-4d655ed2d3d1.png)
-
-
 
 
       2. Star Topology 
