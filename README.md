@@ -1,3 +1,5 @@
+![Screenshot (43)](https://user-images.githubusercontent.com/36708000/120246193-32dadb80-c278-11eb-8fcd-4d655ed2d3d1.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/36708000/120246209-3ec69d80-c278-11eb-9a24-a3496aca1f5e.png)
 # Computer-Network-Topology
 Network Topology
 Network topology is the geometric representation of relationship of all the links connecting the devices or nodes. Network topology represent in two ways one is physical topology that define the way in which a network is physically laid out and other one is logical topology that defines how data actually flow through the network. In this project we have discussed  how to design bus, star and mesh topology network and provide interfacing and simulation between end points using packet tracer software.
