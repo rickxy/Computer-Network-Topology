@@ -17,7 +17,7 @@ In star topology, all the cables run from the computers to a central location wh
 
 
 
-   3. Mesh Topology
+        3. Mesh Topology
  In mesh topology every device has a dedicated point to point link to every other device. The term dedicated stand for link carries traffic only between two devices it connects. It is a well-connected topology; in this every node has a connection to every other node in the network. The cable requirements are high and it can include multiple topologies. Failure in one of the computers does not cause the network to break down, as they have alternative paths to other computers star topology, all the cables run from the computers to a central location.
  
 
